@@ -12,9 +12,5 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.38785461033694446
 name: Blessin Varkey
-navigation:
-  - name: About
-    url: 'http://blessinvarkey.github.io/'
-    type: external
 title: Blessin Varkey
 description: Researcher & Engineer
