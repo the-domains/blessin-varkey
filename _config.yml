@@ -1,4 +1,3 @@
-layout_spectrum: 0.38785461033694446
 typography_spectrum: 0.1263120563235134
 color:
   brandStrength: 0.24157428718172014
@@ -6,9 +5,11 @@ color:
   saturation: 0.9981269130948931
   rhythmicContrast: 0.26956938416697085
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.38785461033694446
 name: Blessin Varkey
+title: Blessin Varkey
