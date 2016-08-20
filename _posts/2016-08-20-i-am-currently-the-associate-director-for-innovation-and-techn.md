@@ -6,18 +6,19 @@ description: >-
   Scotland; I joined Tamana, a non-profit to instigate a technology research lab
   which could provide rich technological resources (assistive aids) to assist
   the special needs community.
-dateModified: '2016-08-20T07:54:49.336Z'
-datePublished: '2016-08-20T07:54:50.529Z'
+dateModified: '2016-08-20T07:48:41.738Z'
+datePublished: '2016-08-20T07:53:44.020Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+starred: false
 sourcePath: >-
   _posts/2016-08-20-i-am-currently-the-associate-director-for-innovation-and-techn.md
-hasPage: true
-starred: false
-url: i-am-currently-the-associate-director-for-innovation-and-techn/index.html
-_type: Blurb
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 I am currently the Associate Director for Innovation & Technology at Tamana's Research Center, New Delhi. Post my Engineering in Computer Science from[Allahabad][0] and postgraduate studies in Artificial Intelligence from [Scotland][1]; I joined Tamana, a non-profit to instigate a technology research lab which could provide rich technological resources (assistive aids) to assist the special needs community.
