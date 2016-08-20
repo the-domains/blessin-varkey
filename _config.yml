@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.38785461033694446
 name: Blessin Varkey
+navigation:
+  - name: About
+    id: 8f6a616d-5f00-4923-9d70-c6005bb7c7e2
+    type: content
 title: Blessin Varkey
 description: Researcher & Engineer
